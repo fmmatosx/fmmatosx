@@ -39,9 +39,8 @@
 
 <!-- Estes arquivos serão gerados na seção seguinte (GitHub Actions) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<seu-usuario>/<seu-usuario>/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<seu-usuario>/<seu-usuario>/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/<seu-usuario>/<seu-usuario>/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fmmatosx/fmmatosx/output/github-snake-dark.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/fmmatosx/fmmatosx/output/github-snake.svg" />
 </picture>
 <!--
 **fmmatosx/fmmatosx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
